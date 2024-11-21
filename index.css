@@ -99,7 +99,7 @@ p {
   flex-direction: column;
 }
 
-.contact-container {
+.profile-contact-container {
   display: flex;
   gap: 2rem;
 }
